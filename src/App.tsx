@@ -1,7 +1,10 @@
+import Message from "./components/Message"
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <Message/>
+    </div>
   )
 }
 
